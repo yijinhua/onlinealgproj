@@ -1,4 +1,9 @@
 # onlinealgproj
+
+Name: Yijin Hua
+Std#: 26824902
+
+
 Online Algorithms Final Project 
 In this repo:
 
